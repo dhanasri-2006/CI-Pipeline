@@ -1,2 +1,4 @@
-print("Hello from GitHub Actions")
-print("Workflow Triggered Again!")
+name = "GitHub Actions"
+
+print(f"Hello from {name}")
+print("CI Pipeline Executed Successfully")
